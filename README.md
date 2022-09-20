@@ -15,3 +15,7 @@ This is the output of ifconfig after configuring dhcp
 
  This is the output of ssh key gen
  ![ssh key gen] (ssh key gen.png)
+
+ ## Exercise 4
+ Install php7.4
+ ![install php7.4] (php 7.4.png)
