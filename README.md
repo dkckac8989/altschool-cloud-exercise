@@ -17,7 +17,7 @@ This is the output of ifconfig after configuring dhcp
 
  This is the output of passwd
  ![pwd.png](pwd.png)
-pwd command is used to find the present working directory
+pwd command is used to find the present working directory       
 
 This is the output of passwd
 ![paasswd.png](paasswd.png)
@@ -55,4 +55,24 @@ This is the output of root
 
  ## Exercise 4
  Install php7.4
- ![install php7.4] (php 7.4.png)                
+ ![php7.4.png](php7.4.png)  
+
+ # Exercise 6
+ This is the output of 
+ git log
+ ![gitlog.png](gitlog.png)
+
+  This is the output of git config -l
+![gitconfig.png](gitconfig.png)
+
+  This is the output of git remote
+  ![gitremote.png](gitremote.png)  
+
+  # Exercise 9
+  This is the output of excercise 9
+  network ip = 32 =193.16.20.32
+  Broadcast IP = 39 =193.16.20.32
+  Hosts = 6 
+  IP Adesses = 6
+  Subnet mask = 255.255.248
+  Class E      
