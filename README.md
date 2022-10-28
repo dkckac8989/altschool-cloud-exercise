@@ -57,6 +57,7 @@ This is the output of root
  Install php7.4
  ![php7.4.png](php7.4.png)  
 
+
  # Exercise 6
  This is the output of 
  git log
@@ -67,6 +68,10 @@ This is the output of root
 
   This is the output of git remote
   ![gitremote.png](gitremote.png)  
+
+  # Excersice 8
+  this is the output of my log file 
+  ![logfile.png](logfile.png)
 
   # Exercise 9
   This is the output of excercise 9
